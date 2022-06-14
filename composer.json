@@ -11,7 +11,8 @@
   ],
   "require": {
     "php": "^8.1",
-    "ext-mbstring": "*"
+    "ext-mbstring": "*",
+    "dump/reflection": "*"
   },
   "autoload": {
     "psr-4": {
